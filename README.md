@@ -1,3 +1,3 @@
 # Bano-Qabil-Projects.
-# Syed nuhannad ShujaatAli.
+# Syed Muhannad Shujaat Ali.
 # Python Programming.
